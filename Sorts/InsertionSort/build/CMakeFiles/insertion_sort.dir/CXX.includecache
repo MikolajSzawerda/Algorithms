@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Sorts/InsertionSort/main.cpp
+iostream
+-
+vector
+-
+limits.h
+-
+
