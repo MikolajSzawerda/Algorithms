@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/bst.dir/main.cpp.o -c /home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/main.cpp",
+  "file": "/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/main.cpp"
+},
+{
+  "directory": "/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/bst.dir/BSTree.cpp.o -c /home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/BSTree.cpp",
+  "file": "/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/BSTree.cpp"
+}
+]

@@ -1,0 +1,5 @@
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/build/CMakeFiles/edit_cache.dir
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/build/CMakeFiles/package_source.dir
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/build/CMakeFiles/rebuild_cache.dir
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/build/CMakeFiles/package.dir
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/binary_search_tree/build/CMakeFiles/bst.dir
