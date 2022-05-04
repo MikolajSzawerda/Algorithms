@@ -1,0 +1,3 @@
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/black_red_tree/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/black_red_tree/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/mszawerd/Studia/SEM2/AISDI/Algorithms/Trees/black_red_tree/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
